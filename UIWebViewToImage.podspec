@@ -17,7 +17,7 @@ s.platform     = :ios, "7.0"
 s.source       = { :git => "https://github.com/Lyg826799195/UIWebViewToImage.git", :tag => "1.0.0"}
 
 
-s.source_files  = "SDCycleScrollView/Lib/SDCycleScrollView/**/*.{h,m}"
+s.source_files  = "UIWebViewToImage"
 
 
 s.requires_arc = true
